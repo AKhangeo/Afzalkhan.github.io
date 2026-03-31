@@ -574,14 +574,14 @@ button { border: none; cursor: pointer; font-family: inherit; }
 }
 
 .hero-stat-1 {
-  top: 30px;
-  right: -40px;
+  top: -20px;
+  right: -90px;
   animation-delay: 0s;
 }
 
 .hero-stat-2 {
-  bottom: 50px;
-  left: -40px;
+  bottom: -20px;
+  left: -90px;
   animation-delay: 2s;
 }
 
@@ -1423,8 +1423,8 @@ button { border: none; cursor: pointer; font-family: inherit; }
     height: 320px;
   }
 
-  .hero-stat-1 { right: -20px; }
-  .hero-stat-2 { left: -20px; }
+  .hero-stat-1 { right: -60px; }
+  .hero-stat-2 { left: -60px; }
 
   .about-grid {
     grid-template-columns: 1fr;
